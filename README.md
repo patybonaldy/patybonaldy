@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patybonaldy
 - 👀 I’m interested in technologies, food, travels fitness
-- 🌱 I’m currently learning ruby on rais
+- 🌱 I’m currently learning ruby on rails
 
 <!---
 patybonaldy/patybonaldy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
